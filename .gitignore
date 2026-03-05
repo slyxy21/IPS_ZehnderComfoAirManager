@@ -1,0 +1,6 @@
+guids.txt
+.DS_Store
+/.idea
+/.vscode
+*.log
+Thumbs.db

@@ -1,0 +1,11 @@
+{
+    "id": "{9C750FA4-4AE3-45AC-B3B9-6548B75D502D}",
+    "name": "Zehnder ComfoAir Manager",
+    "type": 3,
+    "vendor": "slyxy21",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "CAM"
+}
