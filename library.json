@@ -3,8 +3,11 @@
     "author":      "slyxy21",
     "name":        "ZehnderComfoAir",
     "description": "IP-Symcon Modul für Zehnder ComfoAir 350/550 Lüftungsanlagen",
+	"url":         "https://github.com/slyxy21/IPS_ZehnderComfoAirManager",
+	"compatibility": {
+        "version": "8.1"
+    },
     "version":     "2.0",
     "build":       1,
-    "date":        0,
-    "url":         "https://github.com/slyxy21/IPS_ZehnderComfoAirManager"
+    "date":        0
 }
