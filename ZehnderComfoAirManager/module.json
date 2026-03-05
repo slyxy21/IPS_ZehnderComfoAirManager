@@ -7,5 +7,6 @@
     "parentRequirements": [],
     "childRequirements": [],
     "implemented": [],
-    "prefix": "CAM"
+    "prefix": "ZCAM"
+    "url":         "https://github.com/slyxy21/IPS_ZehnderComfoAirManager"
 }
