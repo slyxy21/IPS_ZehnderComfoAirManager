@@ -1,11 +1,13 @@
 {
-    "id": "{132BD68B-F215-4647-8557-875DD629C120}",
-    "name": "Zehnder ComfoAir Manager",
-    "type": 3,
-    "vendor": "slyxy21",
-    "aliases": [],
-    "parentRequirements": [],
-    "childRequirements": [],
-    "implemented": [],
-    "prefix": "ZCAM"
+    "id":           "{132BD68B-F215-4647-8557-875DD629C120}",
+    "name":         "ZehnderComfoAirManager",
+    "description":  "Steuerung der Zehnder ComfoAir Lüftungsanlage",
+    "alias":        "ComfoAir Manager",
+    "version":      "2.0",
+    "compatibility": "6.0",
+    "author":       "slyxy21",
+    "url":          "https://github.com/slyxy21/IPS_ZehnderComfoAirManager",
+    "parentRequirements": [
+        "{6DC3D946-0D31-450F-A8C6-C42DB8D7D4F1}"
+    ]
 }
